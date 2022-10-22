@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg {
+    background-color: #ffffff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+    width: 100%;
+    max-width: 500px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
